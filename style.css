@@ -1,15 +1,8 @@
-.bogey,
-.birdie {
-    font-size: 28px;
-    font-family: Helvetica,'Times New Roman',sans-serif;
+.avatar.proportioned {
+    width: 300px;
 }
 
-.bogey {
-    background-color: black;
-    color: white;
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
 }
-
-.birdie {
-    background-color: yellow;
-}
-
